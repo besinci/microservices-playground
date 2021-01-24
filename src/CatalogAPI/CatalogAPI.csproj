@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>Catalog-API-2e4ce97b-61ec-45ff-adb4-f5e2ac45cbc8</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

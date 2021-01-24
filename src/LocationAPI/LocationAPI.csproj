@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>Location-API-036f5876-09a7-41d8-9abe-956f1b4164be</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
